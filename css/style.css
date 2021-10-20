@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color:white;
   position: relative;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -44,13 +44,13 @@ a:after {
   width: 100%;
   z-index: -1;
   content: "";
-  background: #e6e6e6;
+  background: black;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 a:hover, a:active, a:focus {
-  color: #000;
+  color: white;
   text-decoration: none !important;
 }
 a:hover:after, a:active:after, a:focus:after {
@@ -70,24 +70,24 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: white;
   font-family: "Source Code Pro", monospace;
   font-weight: 400;
   margin: 0 0 30px 0;
 }
 
 ::-webkit-selection {
-  color: #fff;
+  color: white;
   background: #52d3aa;
 }
 
 ::-moz-selection {
-  color: #fff;
+  color: white;
   background: #52d3aa;
 }
 
 ::selection {
-  color: #fff;
+  color: white;
   background: #52d3aa;
 }
 
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  border: 10px solid #fff;
+  border: 10px solid black;
 }
 #fh5co-header .bio-photo a:after {
   display: none !important;
@@ -143,10 +143,10 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   letter-spacing: .05em;
   font-size: 16px;
-  color: #000;
+  color: white;
 }
 #fh5co-main strong {
-  color: #000;
+  color: white;
 }
 
 .fh5co-section {
