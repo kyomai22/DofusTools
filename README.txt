@@ -1,11 +1,13 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+Singular - Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -16,21 +18,34 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-Isotope
-https://isotope.metafizzy.co
+Modernizr
+http://modernizr.com/
 
-Select2
-https://select2.org
+Google Fonts
+https://www.google.com/fonts/
 
-Stellar
+Icomoon
+https://icomoon.io/app/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
-Lightcase
-https://cornel.bopp-art.com/lightcase/
-
 Demo Images:
+http://pixeden.com
 http://unsplash.com
 
